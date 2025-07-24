@@ -12,4 +12,6 @@ NLP stands for Natural Language Processing. It is a branch of artificial intelli
 - 3.Steeming and Lemmatization
 - 4.Part of Speech (pos) tags
 - 5.Name Entity Recognization
+  <img width="515" height="496" alt="Screenshot 2025-07-24 010517" src="https://github.com/user-attachments/assets/ed5bfafa-f726-44c9-bd85-34f99e337c90" />
+
 
